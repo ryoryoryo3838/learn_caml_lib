@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/asobi/META"
+  "_build/install/default/lib/asobi/dune-package"
+  "_build/install/default/lib/asobi/opam"
+]
+bin: [
+  "_build/install/default/bin/asobi"
+]

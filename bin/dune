@@ -1,0 +1,9 @@
+(executable
+ (public_name asobi)
+ (name main)
+ (libraries asobi))
+
+(env
+ (dev
+   (flags (:standard -warn-error -a)))
+)
