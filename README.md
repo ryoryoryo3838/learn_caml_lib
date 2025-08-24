@@ -12,6 +12,8 @@ https://github.com/ocaml/ocaml/tree/trunk/stdlib : stdlibの実装(ローカル�
 
 https://github.com/janestreet/base/tree/master/src : 天下のjanestreetが作ってるBaseの実装
 
+- いま気づいたけど、主流（とは？）なのはBaseよりもCoreか
+
 https://ocaml.org/p/base/latest/doc/base/Base/index.html : Baseのapiドキュメント
 
 https://ocamlverse.net/content/data_struct.html : 参考
